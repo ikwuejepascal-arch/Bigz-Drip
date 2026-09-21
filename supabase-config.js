@@ -1,0 +1,2 @@
+window.BIGZ_SUPABASE_URL = '';
+window.BIGZ_SUPABASE_ANON_KEY = '';
